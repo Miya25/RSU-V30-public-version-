@@ -37,10 +37,4 @@
 * Say
 * way more commands in help menu :)
 
-## Credts
-Bot made by hpriyam
-<br>[Discord] (https://discord.gg/uk6uKq9TwV)
-<br>[Github](https://github.com/hpriyam8)
-<br>[YouTube] (https://www.youtube.com/channel/UC7qafOskW29jT80wabWgCNg)
 
-Do not share without credits :)
